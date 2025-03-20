@@ -2,7 +2,7 @@
 
 SELECT 
 opname.tanggal_masuk, pasien.nama_pasien, dokter.nama_dokter, kamar.nama_kamar,
-kelas_kamar.kelas, CONCAT(DATEDIFF(opname.tanggal_keluar, opname.tanggal_masuk), ' Hari')
+kelas_kamar.kelas, CONCAT(DATEDIFF(opname.tanggal_keluar, opname.tanggal_masuk), ' Malam')
 AS lama_masuk -- mengganti nama kolom supaya tampilannya menjadi lebih baik
 
 FROM opname
