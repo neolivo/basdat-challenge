@@ -1,0 +1,12 @@
+Dengan Menggunakan DB Rumah Sakit:
+1. Tampilkan nama kamar beserta harga permalamnya
+2. Tampilkan nama pasien beserta nama kamar tempat ia dirawat
+3. Tampilkan nama pasien, sakit, dan nama dokter yang menanganinya
+4. Tampilkan tanggal masuk, nama pasien, sakit
+5. Tampilkan nama pasien, sakit, nama dokter, spesialis
+6. Tampilkan tanggal masuk, nama pasien, nama dokter, nama kamar, sakit
+7. Tampilkan tanggal masuk, nama pasien, nama dokter, nama kamar, kelas, lama opname
+8. Tampilkan tanggal masuk, nama pasien, kelas, harga permalam, lama opname (x "malam"), total biaya
+9. Tampilkan total pendapatan rumah sakit per bulannya
+10. Tampilkan nama pasien, alamat, telpon, dan nama kamarnya yang kelas kamarnya adalah "Ekonomi"
+11. Tampilkan nama pasien, alamat, telpon dan nama kamarnya yang bernama"Anggrek"
