@@ -76,6 +76,22 @@ Database ini dikonfigurasi menggunakan MariaDB versi 10.4.24 dengan pengaturan b
 - Time Zone: '+00:00'
 - Engine: InnoDB (untuk mendukung foreign key)
 
+## Instruksi Tugas
+
+Dengan menggunakan database Rumah Sakit, buatlah query SQL untuk:
+
+1. Tampilkan nama kamar beserta harga permalamnya
+2. Tampilkan nama pasien beserta nama kamar tempat ia dirawat
+3. Tampilkan nama pasien, sakit, dan nama dokter yang menanganinya
+4. Tampilkan tanggal masuk, nama pasien, sakit
+5. Tampilkan nama pasien, sakit, nama dokter, spesialis
+6. Tampilkan tanggal masuk, nama pasien, nama dokter, nama kamar, sakit
+7. Tampilkan tanggal masuk, nama pasien, nama dokter, nama kamar, kelas, lama opname
+8. Tampilkan tanggal masuk, nama pasien, kelas, harga permalam, lama opname (x "malam"), total biaya
+9. Tampilkan total pendapatan rumah sakit per bulannya
+10. Tampilkan nama pasien, alamat, telpon, dan nama kamarnya yang kelas kamarnya adalah "Ekonomi"
+11. Tampilkan nama pasien, alamat, telpon dan nama kamarnya yang bernama "Anggrek"
+
 ## Sampel Data
 
 Setiap tabel telah diisi dengan sampel data untuk mempermudah pengujian dan demonstrasi. Data ini mencakup informasi tentang dokter dengan berbagai spesialisasi, pasien dari berbagai daerah, berbagai jenis kamar dengan kelas yang berbeda, serta beberapa catatan rawat inap.
